@@ -9,7 +9,8 @@
 }
 
 body{
-    max-width: 1920px; width: 100%; margin: 0px auto;
+    max-width: 1400px; width: 100%; margin: 0px auto;
+    max-height: 1080px;
 }
 
 .container{
